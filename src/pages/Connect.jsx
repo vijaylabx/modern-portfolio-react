@@ -16,6 +16,7 @@ export default function Connect() {
               processed through an encrypted interface.
             </p>
           </div>
+
           {/* Glassmorphism Form Panel */}
           <div className="glass-panel p-8 md:p-12 rounded-xl border border-outline-variant/15 relative overflow-hidden">
             <div className="absolute top-0 right-0 p-4 font-mono text-[10px] text-primary/20 pointer-events-none">
@@ -35,7 +36,7 @@ export default function Connect() {
                   />
                 </div>
                 <div className="space-y-2">
-                  <label className="font-mono text-xs uppercase tracking-widest text-on-surface-variant ml-1">
+                  <label className="font-mono text-xs uppercase tracking-widest text-on-surface-variant ml-1 ">
                     Access Email
                   </label>
                   <input
@@ -118,7 +119,7 @@ export default function Connect() {
                 </div>
                 <div>
                   <div className="text-xs font-mono text-on-surface-variant uppercase mb-1">Secure Email</div>
-                  <div className="text-sm font-mono text-on-surface">v.jay@cyber-intel.com</div>
+                  <div className="text-sm font-mono text-on-surface">vijaylabx@gmail.com</div>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -136,7 +137,7 @@ export default function Connect() {
                 </div>
                 <div>
                   <div className="text-xs font-mono text-on-surface-variant uppercase mb-1">Geospatial Origin</div>
-                  <div className="text-sm font-mono text-on-surface">Bangalore, IN // Node 080</div>
+                  <div className="text-sm font-mono text-on-surface">Uttar Pradesh, Sambhal, Chandausi // 080</div>
                 </div>
               </div>
             </div>

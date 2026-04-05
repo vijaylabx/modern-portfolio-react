@@ -51,6 +51,7 @@ export default function Stack() {
                     </div>
                 </div>
             </div>
+            {/* java card */}
 
             <div className="glass-panel p-6 rounded-xl border border-outline-variant/15 flex flex-col gap-6 group hover:border-secondary/40 transition-all duration-500">
                 <div className="flex justify-between items-start">
@@ -78,6 +79,7 @@ export default function Stack() {
                     </div>
                 </div>
             </div>
+            {/* low memory dev  */}
 
             <div className="glass-panel p-6 rounded-xl border border-outline-variant/15 flex flex-col gap-6 group hover:border-tertiary/40 transition-all duration-500">
                 <div className="flex justify-between items-start">
@@ -105,6 +107,7 @@ export default function Stack() {
                     </div>
                 </div>
             </div>
+            {/* cyber secrity card */}
 
             <div className="glass-panel p-6 rounded-xl border border-outline-variant/15 flex flex-col gap-6 group hover:border-error/40 transition-all duration-500">
                 <div className="flex justify-between items-start">
@@ -129,6 +132,123 @@ export default function Stack() {
                         <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">Net_Sec</span>
                         <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">BurpSuite</span>
                         <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">Kali_Linux</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        {/* Secound skill card  */}
+         {/* Skill Cards Bento Grid */}
+        <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
+            <div className="glass-panel p-6 rounded-xl border border-outline-variant/15 flex flex-col gap-6 group hover:border-primary/40 transition-all duration-500">
+                <div className="flex justify-between items-start">
+                    <div className="flex flex-col">
+                        <span className="text-[10px] font-mono text-primary mb-1">MODULE_05</span>
+                        <h3 className="text-xl font-headline font-bold tracking-tight text-on-surface">PYTHON</h3>
+                    </div>
+                    <span className="material-symbols-outlined text-primary text-3xl">layers</span>
+                </div>
+                <div className="space-y-4">
+                    <div className="space-y-1.5">
+                        <div className="flex justify-between text-[11px] font-mono">
+                            <span className="text-on-surface-variant">EFFICIENCY</span>
+                            <span className="text-primary">91%</span>
+                        </div>
+                        <div className="h-1 w-full bg-surface-container-highest rounded-full overflow-hidden">
+                            <div className="h-full bg-primary w-[91%] shadow-[0_0_8px_rgba(143,245,255,0.5)]"></div>
+                        </div>
+                    </div>
+                    <div className="flex flex-wrap gap-2 pt-4">
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">DJANGO</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">SELF TOOL CREATING</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">WEB SCRIPTING</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">AI & ML</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">DATA VISUALIZATION</span>
+
+                    </div>
+                </div>
+            </div>
+            {/* NETWORKING */}
+
+            <div className="glass-panel p-6 rounded-xl border border-outline-variant/15 flex flex-col gap-6 group hover:border-secondary/40 transition-all duration-500">
+                <div className="flex justify-between items-start">
+                    <div className="flex flex-col">
+                        <span className="text-[10px] font-mono text-secondary mb-1">MODULE_06</span>
+                        <h3 className="text-xl font-headline font-bold tracking-tight text-on-surface">NETWORKING</h3>
+                    </div>
+                    <span className="material-symbols-outlined text-secondary text-3xl">coffee</span>
+                </div>
+                <div className="space-y-4">
+                    <div className="space-y-1.5">
+                        <div className="flex justify-between text-[11px] font-mono">
+                            <span className="text-on-surface-variant">THROUGHPUT</span>
+                            <span className="text-secondary">76%</span>
+                        </div>
+                        <div className="h-1 w-full bg-surface-container-highest rounded-full overflow-hidden">
+                            <div className="h-full bg-secondary w-[76%] shadow-[0_0_8px_rgba(172,137,255,0.5)]"></div>
+                        </div>
+                    </div>
+                    <div className="flex flex-wrap gap-2 pt-4">
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">Software/Tools</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">Network Engineer</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">Installation & Configuration</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">Micro services</span>
+                    </div>
+                </div>
+            </div>
+            {/* Core System Design */}
+
+            <div className="glass-panel p-6 rounded-xl border border-outline-variant/15 flex flex-col gap-6 group hover:border-tertiary/40 transition-all duration-500">
+                <div className="flex justify-between items-start">
+                    <div className="flex flex-col">
+                        <span className="text-[10px] font-mono text-tertiary mb-1">MODULE_07</span>
+                        <h3 className="text-xl font-headline font-bold tracking-tight text-on-surface">Core System Design</h3>
+                    </div>
+                    <span className="material-symbols-outlined text-tertiary text-3xl">memory</span>
+                </div>
+                <div className="space-y-4">
+                    <div className="space-y-1.5">
+                        <div className="flex justify-between text-[11px] font-mono">
+                            <span className="text-on-surface-variant">PRECISION</span>
+                            <span className="text-tertiary">61%</span>
+                        </div>
+                        <div className="h-1 w-full bg-surface-container-highest rounded-full overflow-hidden">
+                            <div className="h-full bg-tertiary w-[61%] shadow-[0_0_8px_rgba(0,236,59,0.5)]"></div>
+                        </div>
+                    </div>
+                    <div className="flex flex-wrap gap-2 pt-4">
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">Database Design</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">API Design</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">RTOS</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">C++_System</span>
+                    </div>
+                </div>
+            </div>
+            {/* D S A Algorithms*/}
+
+            <div className="glass-panel p-6 rounded-xl border border-outline-variant/15 flex flex-col gap-6 group hover:border-error/40 transition-all duration-500">
+                <div className="flex justify-between items-start">
+                    <div className="flex flex-col">
+                        <span className="text-[10px] font-mono text-error mb-1">MODULE_08</span>
+                        <h3 className="text-xl font-headline font-bold tracking-tight text-on-surface">D S A And Algorithms</h3>
+                    </div>
+                    <span className="material-symbols-outlined text-error text-3xl">policy</span>
+                </div>
+                <div className="space-y-4">
+                    <div className="space-y-1.5">
+                        <div className="flex justify-between text-[11px] font-mono">
+                            <span className="text-on-surface-variant">INTEGRITY</span>
+                            <span className="text-error">66%</span>
+                        </div>
+                        <div className="h-1 w-full bg-surface-container-highest rounded-full overflow-hidden">
+                            <div className="h-full bg-error w-[66%] shadow-[0_0_8px_rgba(255,113,108,0.5)]"></div>
+                        </div>
+                    </div>
+                    <div className="flex flex-wrap gap-2 pt-4">
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">Problem-Solving Skills</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">Data Organization</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">Graph Algorithms</span>
+                        <span className="px-2 py-1 bg-surface-bright text-[10px] font-mono text-on-surface-variant rounded border border-outline-variant/10">Trapping Rain Water</span>
                     </div>
                 </div>
             </div>

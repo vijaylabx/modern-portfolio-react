@@ -352,7 +352,7 @@ export default function Home() {
                     </a>
                     <a className="flex items-center gap-3 px-8 py-4 bg-surface-container-highest border border-outline-variant/30 rounded hover:border-secondary transition-all group" href="#">
                         <span className="material-symbols-outlined group-hover:text-secondary" data-icon="send">send</span>
-                        <span className="font-headline font-bold uppercase tracking-widest text-sm">Establish Connection</span>
+                        <span className="font-headline font-bold uppercase tracking-widest text-sm"><a href="https://www.linkedin.com/in/vijay-kumar-334911270"> Linkedin Connection</a></span>
                     </a>
                 </div>
             </div>

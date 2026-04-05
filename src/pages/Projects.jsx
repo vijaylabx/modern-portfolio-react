@@ -269,7 +269,7 @@ export default function Projects() {
             <p className="text-on-surface-variant max-w-2xl mx-auto mb-10 text-lg relative z-10">Currently accepting high-impact projects for Q4. Let's discuss your architectural requirements.</p>
             <div className="flex flex-wrap justify-center gap-4 relative z-10">
               <button className="px-8 py-4 bg-gradient-to-r from-primary to-secondary text-on-primary font-label font-bold rounded-md hover:scale-105 transition-transform">
-                INITIALIZE_CONTACT
+                   INITIALIZE_CONTACT
               </button>
               <button className="px-8 py-4 border border-primary/40 text-primary font-label font-bold rounded-md hover:bg-primary/10 transition-all">
                 DOWNLOAD_CV.PDF
