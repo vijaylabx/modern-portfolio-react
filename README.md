@@ -1,7 +1,15 @@
 # 🌐 Personal Portfolio Website
 
-A modern, responsive and dynamic **Portfolio Website** built using React + Vite.  
-This project showcases my **skills, projects, and experience** in Web Development and Cybersecurity.
+❤️ A modern, responsive and dynamic **Portfolio Website**  built using React + Vite.  
+❤️ This project showcases my **skills, projects, and experience** in Web Development and Cybersecurity.
+
+# 🚀 Modern React Portfolio Website
+
+🔥 A fully responsive and customizable **Portfolio Website** built with React, Vite, and Tailwind CSS.
+
+❤️ This project showcases my **skills, projects, and experience** in Web Development and Cybersecurity.
+
+🌟 Perfect for Students, Developers, Freelancers, and Job Seekers.
 
 ---
 
