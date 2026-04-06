@@ -272,7 +272,11 @@ export default function Projects() {
                    INITIALIZE_CONTACT
               </button>
               <button className="px-8 py-4 border border-primary/40 text-primary font-label font-bold rounded-md hover:bg-primary/10 transition-all">
-                DOWNLOAD_CV.PDF
+              <a 
+                href="https://ik.imagekit.io/gjzkwx53h0/pddf/MY-RESUME021.pdf" 
+                target="_blank" 
+                rel="noopener noreferrer">DOWNLOAD_CV.PDF</a>
+                  
               </button>
             </div>
           </div>

@@ -300,7 +300,8 @@ export default function Stack() {
                     <p className="font-mono text-xs text-on-surface-variant tracking-widest">VISUALIZING_SYSTEM_COMPLEXITY_COEFFICIENT: 0.984</p>
                 </div>
                 <button className="mt-6 px-8 py-3 bg-gradient-to-r from-primary to-secondary rounded-md font-bold text-on-primary-container text-sm tracking-widest hover:opacity-90 transition-opacity">
-                    INITIALIZE_DEEP_SCAN
+                        <span className="font-headline font-bold uppercase tracking-widest text-sm"><a href="https://www.linkedin.com/in/vijay-kumar-334911270"> INITIALIZE_DEEP_SCAN</a></span>
+ 
                 </button>
             </div>
             <div className="absolute bottom-4 right-6 font-mono text-[10px] text-primary/40">
